@@ -1,0 +1,13 @@
+name = "Click Villagers"
+filename = "ClickVillagers-1.6.7+1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BITzwT7B/versions/6Df6UqGc/ClickVillagers-1.6.7%2B1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "40a9a65890f55e33959a3125bcea826ff51aaf6a704f096fa90df7e3e1167fb95758436b7b66481527deeec45ff5366217732daecfa297b8f2326e82b2f5ed22"
+
+[update]
+[update.modrinth]
+mod-id = "BITzwT7B"
+version = "6Df6UqGc"

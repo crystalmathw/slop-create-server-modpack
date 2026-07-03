@@ -1,0 +1,13 @@
+name = "Durability Guard"
+filename = "durability_guard-2.5.1+1.21-neoforge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/mJB9S4Yq/versions/3CtHhvyn/durability_guard-2.5.1%2B1.21-neoforge.jar"
+hash-format = "sha512"
+hash = "a68cd1e9e64901a466582564966cf80383402ea3588f537d4fa6d791cc24fa9f00207fa8e74b339679aa8eabf9f3d89aa6a778be660f199d2665d4f8f67bc1b6"
+
+[update]
+[update.modrinth]
+mod-id = "mJB9S4Yq"
+version = "3CtHhvyn"
