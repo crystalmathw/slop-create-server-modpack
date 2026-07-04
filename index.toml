@@ -116,7 +116,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-liquid-fuel.pw.toml"
-hash = "2af9229718d9edb1eaa4b88fac0063ab2f5f7ba7650a4efa5f0a8e6ce25549cd"
+hash = "f255c66a6b26a1a46f1703047c6b65ad829de6bed1813f4174570504b9ef5056"
 metafile = true
 
 [[files]]
@@ -146,7 +146,7 @@ metafile = true
 
 [[files]]
 file = "mods/create_oxidized.pw.toml"
-hash = "50a9e0cce66be2ab5f875133d7ce53d0fc6c35d4a5a4fc0e776f10fadeb61c68"
+hash = "dd9cfd35b367b820048c5eeff3bb65cc882c47f4dd40b694b2f0a92c7c5ecf56"
 metafile = true
 
 [[files]]
@@ -311,7 +311,7 @@ metafile = true
 
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
-hash = "87708c5cf041f2c7eede5dc1a5ee0dd517a13c0c7e8c40c359669a5ffabef7db"
+hash = "e40aa115e17319b76b95087e3473496ab670e83638f6c3a80ed45db8df7b72a3"
 metafile = true
 
 [[files]]
