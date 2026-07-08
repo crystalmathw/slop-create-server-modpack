@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-framed.pw.toml"
-hash = "38880c65a74118a7f2bd0409c33f8c0e872a1efd398298574ea42da9a4ba0be4"
+hash = "db683b65dc15a03dd6de2d34d5dc6ad0e3490744ced513a8cc584784ee9d3d8b"
 metafile = true
 
 [[files]]
@@ -152,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "2ae9967c029b5b15ff07f8cecc73bdbc18f5679aaf2c4c8b39aede33513c4c8a"
+hash = "d5b9c23df79ef871a70032567db2512904251347bdf13da80fbb8b00a846a79a"
 metafile = true
 
 [[files]]
@@ -242,7 +242,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "e22f8ce274c0473d3ce96d67766cd9420651d2bd6712371eb025cd2b6e39ec53"
+hash = "7a1cf860c2761f6ae16333f869c75bb2af1d079c61b7f94e6af3265886f4dec0"
 metafile = true
 
 [[files]]
@@ -362,12 +362,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "a4ada11e3066a217ae222b736948be5b0761d71c3d8cd9ecd9643cddbfd418da"
+hash = "5522ba967d9cb9039a8b0e8eb8965715465556aab9d61ff11da68e22c1655d03"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "8801155fc76b5c0b74001ba91ed665bdfa161e4eafd1edbbacca7e2a4262432a"
+hash = "0cc5eab0da976be1fc33b8dd225bddd064078a829ec8f361564ec03666354546"
 metafile = true
 
 [[files]]
