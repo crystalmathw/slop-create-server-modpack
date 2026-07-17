@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-aquatic-ambitions.pw.toml"
-hash = "c68ac4355bcbfe43e5873017e27daff2d0b70f04923b88e9506af8fe21535e59"
+hash = "7ab1f001b0bcad7019b41cddd1f80ce596624f8b7ad64c1d0b973648caad3f33"
 metafile = true
 
 [[files]]
@@ -197,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "82e215e86e950899b2793efdb08d5fe49966a338ab1fe278d6e7124a475cbc17"
+hash = "a0b3083a1577130adb77867a6f8b6cf0c5bdd3c0c8b2995fa8b5fca323ed09a0"
 metafile = true
 
 [[files]]
@@ -242,7 +242,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "7a1cf860c2761f6ae16333f869c75bb2af1d079c61b7f94e6af3265886f4dec0"
+hash = "636d90c851ff6f3d8668140cec978a05b9078d1b8a0b85f300bb795ed0a55572"
 metafile = true
 
 [[files]]
@@ -362,12 +362,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "0a6681d5daabf7c5b837792be05b275814d86431f647c99ebc9b1ab12eb55717"
+hash = "2a1cc1c3d96e65e00ce71cf9ed95067ac6eca1c6f4a9dc70c305033dce448b1b"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "1eca95969a5750578e2c848d7cb63fee57c99cd2860372d2634e55d9076780fd"
+hash = "1d2a1a1572c8a7f6b5d34f4b59f53b3277b1e08237831263e3ae20b0e161f4d0"
 metafile = true
 
 [[files]]
