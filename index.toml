@@ -251,11 +251,6 @@ hash = "a947afda264a2eaaef57dc74999741da0433968a0e639730b063c3f3b676c41b"
 metafile = true
 
 [[files]]
-file = "mods/linear-bearing.pw.toml"
-hash = "e92248ff7e47d94175ee315550946858967e9f1076653468a1d10a6aa53a4d82"
-metafile = true
-
-[[files]]
 file = "mods/lithium.pw.toml"
 hash = "40e280329d8fc1d94224d039f14bf19cc43472fccc1e0eb35cdb85ae715fcbaf"
 metafile = true
