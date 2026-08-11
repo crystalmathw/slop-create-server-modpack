@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "17a51b63224d0102c6a1479b796b461f4a5d0d13e71b7650ce50de22e0168fcc"
+hash = "3e69e45eff4a54b0d6235e8dd9dee8e44b6728701fdba159d365bcc378d839cb"
 metafile = true
 
 [[files]]
@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-central-kitchen.pw.toml"
-hash = "ac6365d8ec1f7980c03b8416313719c5d158474850fd8cf73ddff8a0b439ac01"
+hash = "7a7eeb96f8cf82768269855ff837c07fa75daf32a6f560d85f2bf901402d70d3"
 metafile = true
 
 [[files]]
@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-dragons-plus.pw.toml"
-hash = "9cb87d122e89fdf3173eea53030ee2f53be0b78620b79d79ef664ae7aa18807c"
+hash = "b3b334eb96040b3a08418cf6bb06875a86bb432cdb30349b1559b894a0442a7e"
 metafile = true
 
 [[files]]
@@ -242,7 +242,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "17014a330541046f8c1437dbeec14128c3faeec64ddbb24586ffd08371ddd2ca"
+hash = "1b7de11aec3659d7240c71a5181627d34cc270c264d9ce58a944fc9dd28a85cf"
 metafile = true
 
 [[files]]
