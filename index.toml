@@ -286,11 +286,6 @@ hash = "71458223fdb4446ae5555ec0cc3189471736e6a696626a7de1bee77ae39d6b3e"
 metafile = true
 
 [[files]]
-file = "mods/luckperms.pw.toml"
-hash = "91e6a0e562023e927ca1c56bdfd5df673609cac23528f768a83afe3674cdd0c0"
-metafile = true
-
-[[files]]
 file = "mods/miners-delight.pw.toml"
 hash = "02f0357345d936bac764c09fcf74a1f69211eb0d2178af6544119b4e5b0f1083"
 metafile = true
