@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/clientsort.pw.toml"
-hash = "7145a59df8c7ec933ae9db346291418ba47825402317606a0eb684714f151d07"
+hash = "bc8f73d505924c9e0f05da43e0a232532b845287b26aa27abde2410971b0e278"
 metafile = true
 
 [[files]]
@@ -167,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "6d3e312dbf8db12dd1b6fb3bd1d29f210ab48024a0b2ebdf02fd32c265955c5d"
+hash = "0c20fea3407ed0db85b4b171f1820a24987f2659946fadd30bae044205041b09"
 metafile = true
 
 [[files]]
@@ -222,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/full-brightness-toggle.pw.toml"
-hash = "ae9d38d9d9ac566ae6ca620490d79a908dc21a14f148848f8897c671394c110d"
+hash = "01c1109f1cdfa54b618025c89862efc6cbcbdee2a5b050ec0cb3461816b76aa6"
 metafile = true
 
 [[files]]
@@ -262,7 +262,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "4727f9eca761440a318177abe0916e5d1cbff3bdaa0ad5904be3a2b00bc44049"
+hash = "c911d03476ac0e535c3c601ad98a725ce685e063032474abbf2a2fb9bf23f786"
 metafile = true
 
 [[files]]
@@ -383,6 +383,11 @@ metafile = true
 [[files]]
 file = "mods/wi-zoom.pw.toml"
 hash = "683102ee28bcc3cbae4ff1edd501f15087563505e51304a8e469681b09d3140d"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "de999f6cc4c2f344e324b4f331fa9767844c31463c6e8066fcd67b613338ab8c"
 metafile = true
 
 [[files]]
